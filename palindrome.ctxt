@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=palindrome
+comment1.params=
+comment1.target=void\ input()
+comment2.params=no\ rev
+comment2.target=long\ pgen(long,\ long)
+comment3.params=a
+comment3.target=boolean\ pcheck(long)
+comment4.params=
+comment4.target=void\ pfind()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

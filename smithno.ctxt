@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=smithno
+comment1.params=
+comment1.target=void\ input()
+comment2.params=no
+comment2.target=int\ sumofdigits(int)
+comment3.params=
+comment3.target=void\ smithcheck()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

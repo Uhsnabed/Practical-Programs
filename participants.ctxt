@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=participants
+comment1.params=num
+comment1.target=participants(int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=obr
+comment3.target=participants\ common(participants)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
