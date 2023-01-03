@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Prog18
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=Prog18(int)
+comment3.params=
+comment3.target=void\ input()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ symmetric()
+comment6.params=
+comment6.target=void\ skewsymmetric()
+comment7.params=
+comment7.target=void\ sumleftdiagonal()
+comment8.params=
+comment8.target=void\ sumrightdiagonal()
+numComments=9

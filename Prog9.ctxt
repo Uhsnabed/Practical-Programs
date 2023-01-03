@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Prog9
+comment1.params=
+comment1.target=Prog9()
+comment2.params=
+comment2.target=void\ inputstring()
+comment3.params=str
+comment3.target=int\ countTripleRecursion(java.lang.String)
+comment4.params=str
+comment4.target=int\ countTripleNonRecursion(java.lang.String)
+comment5.params=
+comment5.target=void\ checking()
+comment6.params=arg
+comment6.target=void\ main(java.lang.String[])
+numComments=7

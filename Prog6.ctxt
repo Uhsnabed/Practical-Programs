@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Prog6
+comment1.params=
+comment1.target=Prog6()
+comment10.params=
+comment10.target=void\ display()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ inputArraySize()
+comment3.params=
+comment3.target=void\ Arrayinput()
+comment4.params=num
+comment4.target=int\ checkDuplicate(int)
+comment5.params=
+comment5.target=void\ calFreq()
+comment6.params=num\ rep
+comment6.target=void\ fillResArray(int,\ int)
+comment7.params=
+comment7.target=void\ relativePos()
+comment8.params=
+comment8.target=void\ fillnumsLeftArr()
+comment9.params=
+comment9.target=void\ sortnumsLeftArr()
+numComments=12

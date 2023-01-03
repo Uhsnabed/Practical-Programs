@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket_Queue
+comment1.params=cap
+comment1.target=Ticket_Queue(int)
+comment2.params=
+comment2.target=boolean\ checkQueueIfEmpty()
+comment3.params=
+comment3.target=boolean\ checkQueueIfFull()
+comment4.params=viewer_code
+comment4.target=void\ pushViewer(int)
+comment5.params=
+comment5.target=int\ popViewer()
+numComments=6

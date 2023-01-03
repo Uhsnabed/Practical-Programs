@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Prog7
+comment1.params=
+comment1.target=Prog7()
+comment2.params=
+comment2.target=void\ inputArraySize()
+comment3.params=
+comment3.target=void\ Arrayinput()
+comment4.params=num
+comment4.target=int\ checkRemoved(int)
+comment5.params=x
+comment5.target=void\ rearranging(int)
+comment6.params=
+comment6.target=void\ removed()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=void\ main()
+numComments=9

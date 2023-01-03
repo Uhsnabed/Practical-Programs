@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Prog8
+comment1.params=
+comment1.target=void\ inputstring()
+comment2.params=st\ l
+comment2.target=java.lang.String\ converting(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ changed()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
